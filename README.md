@@ -1,6 +1,15 @@
 # hello-world
 
-My name is Fernando Hernandez, I from Costa Rica
-I am Sofware Developer, I really like develop and learn new languages and different methodologies, I try every day to learn something new, or read about tecnology.
+Hello, I'm Fernando Hernandez, a software developer from Costa Rica. I have a strong background in the field and I'm passionate about creating technological solutions. My expertise lies in software development using various technologies and programming languages.
 
-I have a lot of experience with Microsoft technology as C#, reporting Services, WCF, SQL server and more, I got 3 Microsoft certifications(70-480, 70-486 and 70-86). Also I like JavaScript and frameworks from it.
+I feel comfortable working with technologies like .NET, Python, JavaScript, and Java, and I have a solid command of database engines such as SQL Server, MySQL, and PostgreSQL. Additionally, I have experience in web application development using popular frameworks like Angular and React, enabling me to create attractive and functional user interfaces.
+
+I'm excited about the world of data search and analysis, and I've acquired knowledge in Elasticsearch, a powerful tool for this purpose. I also have experience in Apache Nifi, an ETL platform that allows me to handle and transform data in real-time.
+
+As a software developer, I strive to provide efficient and high-quality solutions. I enjoy taking on new challenges and learning new technologies to stay up-to-date in this ever-evolving field.
+
+If you need assistance with software development or have any technology-related questions, feel free to reach out. I'm here to help.
+
+If you have any other questions, I'll be happy to assist you!
+fjosue14@gmail.com
+
